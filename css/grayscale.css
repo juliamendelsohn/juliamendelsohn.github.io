@@ -317,13 +317,13 @@ ul.banner-social-buttons {
     margin-top: 0
 }
 
-@media (max-width:1199px) {
+/* @media (max-width:1199px) {
     ul.banner-social-buttons {
         margin-top: 15px
     }
-}
+} */
 
-@media (max-width:767px) {
+/* @media (max-width:767px) {
     ul.banner-social-buttons li {
         display: block;
         margin-bottom: 20px;
@@ -332,7 +332,7 @@ ul.banner-social-buttons {
     ul.banner-social-buttons li:last-child {
         margin-bottom: 0
     }
-}
+} */
 
 footer {
     padding: 50px 0
