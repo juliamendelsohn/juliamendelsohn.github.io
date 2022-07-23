@@ -294,13 +294,15 @@ a {
 
 ul.banner-social-buttons {
     margin-top: 0;
+    margin-bottom: 0;
+    padding: 0;
     @media(max-width:1199px) {
-        margin-top: 15px;
+        margin-top: 0px;
     }
     @media(max-width:767px) {
         li {
             display: block;
-            margin-bottom: 20px;
+            margin-bottom: 0px;
             padding: 0;
             &:last-child {
                 margin-bottom: 0;
