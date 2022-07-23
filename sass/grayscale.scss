@@ -316,17 +316,15 @@ footer {
     }
 }
 
-/*
+
 ::-moz-selection {
     text-shadow: none;
-    background: #fcfcfc;
-    background: rgba(white, 0.2);
+    background: #accef7;
 }
 
 ::selection {
     text-shadow: none;
-    background: #fcfcfc;
-    background: rgba(white, 0.2);
+    background: #accef7;
 }
 
 img::selection {
@@ -339,4 +337,4 @@ img::-moz-selection {
 
 body {
     -webkit-tap-highlight-color: rgba(white, 0.2);
-} */
+} 
