@@ -27,6 +27,6 @@ Here are some directions that I have worked on and continue to be excited about:
 2. **Implicitly (and sometimes covertly) harmful language** in discussions about marginalized communities. I have published work about developing computational approaches to study [dehumanization](/assets/pdf/frontiers_dehumanization.pdf) and [dogwhistle communication](/assets/pdf/acl_dogwhistles_2023.pdf). Starting with my work on dogwhistles, I have recently become especially interested in building language technologies to study and combat antisemitism. 
 3. **Computational sociolinguistics**. I have done some work on [language variation, change, and social meaning in online communities](/assets/pdf/scil_gendersent_2019.pdf) (and would love to do more!). I am interested in bridging sociolinguistics and computational social science to understand the relationship between [linguistic practices and social networks](/assets/pdf/icwsm_multilingual_2023.pdf)
 
-You can find more information about me from my [curriculum vitae](/assets/pdf/CV_Apr2024.pdf).
+You can find more information about me from my [curriculum vitae](/assets/pdf/CV_Jan2025.pdf).
 
 
