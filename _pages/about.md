@@ -14,9 +14,8 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-***Prospective Students:*** *I am recruiting PhD students to begin in Fall 2026! Prospective PhD students should [apply](https://ischool.umd.edu/academics/phd-information-studies/admissions) to the [PhD program in Information Studies](https://ischool.umd.edu/academics/phd-information-studies/) at UMD, and note your interest in working with me in the statement.*
 
-I am an incoming Assistant Professor (beginning August 2025) at the [University of Maryland College of Information](https://ischool.umd.edu/). In the meantime, I am currently a postdoctoral scholar at the [University of Chicago Data Science Institute](https://datascience.uchicago.edu/). I completed my PhD in Information at the [University of Michigan School of Information](https://www.si.umich.edu/), and hold a BA in Linguistics and MS in Computer Science from Stanford University. 
+I am an Assistant Professor at the [University of Maryland College of Information](https://ischool.umd.edu/). In the meantime, I am currently a postdoctoral scholar at the [University of Chicago Data Science Institute](https://datascience.uchicago.edu/). I completed my PhD in Information at the [University of Michigan School of Information](https://www.si.umich.edu/), and hold a BA in Linguistics and MS in Computer Science from Stanford University. 
 
 
 My research lies at the intersection of language, politics, and computation. As an interdisciplinary scholar, I draw from diverse fields including natural language processing (NLP), political communication, sociolinguistics, and psychology. I am particularly interested in computationally modeling subtle rhetoric in online political discussions, and understanding the social, political and technological implications of such language. 
